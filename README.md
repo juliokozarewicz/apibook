@@ -1,0 +1,2 @@
+# API
+My learning journey with Django Rest Framework has been a rewarding and enriching experience. Exploring fundamental concepts, from data serialization to authentication, I've discovered how to efficiently build powerful and scalable APIs. DRF not only streamlines development but also provides a solid foundation for my growth as an API developer, enabling me to focus on business logic while delving into the intricate nuances of modern web development.
