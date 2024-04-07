@@ -6,7 +6,7 @@ This is a simple example project demonstrating how to build a RESTful API with D
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/apibook.git
+    git clone https:/juliokozarewicz/github.com/apibook.git
     ```
 
 2. **Navigate to the project directory:**
